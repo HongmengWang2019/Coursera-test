@@ -106,6 +106,7 @@ p {
     border-radius: 1px;
   }
   .navbar-header button.navbar-toggler {
+    text-align: right;
     clear: both;
     margin-top: -40px;
     background: #FCFAF2;
